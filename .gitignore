@@ -1,0 +1,2 @@
+# Ignore memory dump files
+.data/
